@@ -1,0 +1,22 @@
+# robots.txt for https://knowledgesathi.com/
+
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /cgi-bin/
+Disallow: /cgi/
+Allow: /about/
+Allow: /blogs/
+Allow: /contact/
+Allow: /services/
+Allow: /faculty/
+Allow: /faqs/
+Allow: /index/
+Allow: /missionandvision/
+Allow: /registrationform/
+
+
+
+
+Sitemap: https://knowledgesathi.com/sitemap.xml
